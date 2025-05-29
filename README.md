@@ -6,6 +6,7 @@
 🌷 Always learning and excited to connect with fellow coding cuties! 😊
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wrnj.dump) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wesnita-ruth-angie-8a1a30360) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/njheree_) 
 
@@ -16,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=njhereee&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=njhereee&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=njhereee&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
